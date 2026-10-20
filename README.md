@@ -17,8 +17,8 @@ Power BI, Power Query, DAX
 | Customers | Segments, loyalty, payment methods |
 | Festivals | Average line value by festival vs normal days |
 
-![Overview](images/01-overview.png)
-![Promotions](images/04-promotions.png)
+![Overview](images/Overview.JPG)
+![Promotions](images/Promotions.JPG)
 
 ## Key findings
 - Revenue was 2.69M with a 42.5% margin. 2024 revenue grew 2.2% on 2023.
